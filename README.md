@@ -5,7 +5,7 @@ Busco criar soluções que unem a robustez da Engenharia de Software com a intel
 
 🌱 Atualmente focada em: React, Node.js e Python (Data Science).
 
-🛠️ Tecnologias: HTML5, CSS3, JavaScript (ES6+), SASS, Python, SQL.
+🛠️ Tecnologias: HTML5, CSS3, Bootstrap,JavaScript (ES6+), SASS, Python, SQL.
 
 🎯 Objetivo: Criar sistemas que não apenas funcionem, mas que gerem insights valiosos através dos dados.
 
